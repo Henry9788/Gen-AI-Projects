@@ -5,7 +5,6 @@ The app leverages semantic search and LLM reasoning to generate reliable respons
 
 Whether you're exploring research papers, legal contracts, or business reports, this tool offers a fast and intelligent way to interact with documents — powered by the next generation of AI.
 
-i attached output for RAG Application
-![Uploading Screenshot (8).png…]()
-![Uploading Screenshot (9).png…]()
-![Uploading Screenshot (7).png…]()
+i attached output for RAG Application![Screenshot (8)](https://github.com/user-attachments/assets/86949e13-8a4a-4134-98d4-ae31b41688d0)
+![Screenshot (9)](https://github.com/user-attachments/assets/739f8be5-f583-4ed2-b8c3-2180a9e1e0d3)
+![Screenshot (7)](https://github.com/user-attachments/assets/b8fff6c1-cc1a-4c2e-bee6-4d4bed695c62)
